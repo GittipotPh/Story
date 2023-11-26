@@ -1,9 +1,0 @@
-[33mcommit 0b02410589cd0917a409edaa9f010b72540bebd6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
-Author: Gong-gong <gonggang_2539@outlook.com>
-Date:   Sun Nov 26 00:38:48 2023 +0700
-
-    Complete Chapter 1
-
-[1mdiff --git a/Chapter1.txt b/Chapter1.txt[m
-[1mnew file mode 100644[m
-[1mindex 0000000..e69de29[m
